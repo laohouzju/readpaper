@@ -11,5 +11,5 @@
 |      |          | A Methodological Approach to Model-Driven Design and Development of Automation Systems | 杨文霈 | 11.28    |
 | 2020 | NDSS     | OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis | 刘彤   | 11.29    |
 | 2020 | CCS      | SQUIRREL:Testing Database Management Systems with Language Valiity and Coverage Feedback | 侯黎阳 | 12.7     |
-| 2019 | PLDI     | Parser-Directed Fuzzing                                      | 侯黎阳 | 12.1     |
+| 2019 | PLDI     | Parser-Directed Fuzzing                                      | 侯黎阳 | 12.10     |
 
