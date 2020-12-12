@@ -1,5 +1,9 @@
 # readpaper
 
+[上传个人汇报PPT](http://xzc.cn/kyT0GViO0E)
+
+[下载别人的slides](https://pan.baidu.com/s/1tKvzqQpuE9TztrE7c6xC3g)
+
 | 年份 | 会议名称 | 论文题目                                                     | 阅读人 | 完成时间 |
 | ---- | -------- | ------------------------------------------------------------ | ------ | -------- |
 | 2019 | IEEE S&P | HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows | 刘彤   | 11.19    |
