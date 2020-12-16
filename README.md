@@ -16,4 +16,4 @@
 | 2020 | NDSS     | OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis | 刘彤   | 11.29    |
 | 2020 | CCS      | SQUIRREL:Testing Database Management Systems with Language Valiity and Coverage Feedback | 侯黎阳 | 12.7     |
 | 2019 | PLDI     | Parser-Directed Fuzzing                                      | 侯黎阳 | 12.10     |
-
+| 2020 | ISSTA    | Learning Input Tokens for Effective Fuzzing                                      | 侯黎阳 | 12.17     |
