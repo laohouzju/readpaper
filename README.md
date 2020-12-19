@@ -20,3 +20,4 @@
 | 2021 | TIFS     | Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection | 叶童 | 12.15 |
 | 2019 | NIPS     | Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks | 叶童 | 12.20 |
 | 2009 | ICSE     | Taint-based Directed Whitebox Fuzzing                                      | 侯黎阳 | 12.19     |
+| 2021 | USENIX   | NYX：Greybox Hypervisor Fuzzing using Fast Snaphots and Affine Types                                | 侯黎阳 | 12.25|
