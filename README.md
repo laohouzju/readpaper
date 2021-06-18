@@ -18,3 +18,4 @@
 | 2019 | NuerIPS  | Devign:Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks | 叶童 | 01.30|
 | 2020 | IEEE TIFS | Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection | 叶童 |02.10|
 | 2020 | USENIX   | MVP:Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures | 叶童 | 02.20|
+| 2020 | CCS |
